@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Grad18\source\repos\Questionnaire\Questionnaire\obj\Debug\
+C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\obj\Debug\
 Questionnaire
 none
 false
 DEBUG;TRACE
-C:\Users\Grad18\source\repos\Questionnaire\Questionnaire\App.xaml
-2-1537564713
+C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\App.xaml
+4320291156
 
-12-630844070
+14677050339
 151984215308
-MainWindow.xaml;Questions.xaml;
+AssetDetails.xaml;FinancialDetail.xaml;Goals.xaml;MainWindow.xaml;
 
-False
+True
 

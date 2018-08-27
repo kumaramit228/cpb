@@ -57,9 +57,27 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Questions.xaml.cs">
-      <DependentUpon>Questions.xaml</DependentUpon>
+    <Compile Include="AssetDetails.xaml.cs">
+      <DependentUpon>AssetDetails.xaml</DependentUpon>
     </Compile>
+    <Compile Include="FinancialDetail.xaml.cs">
+      <DependentUpon>FinancialDetail.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Goals.xaml.cs">
+      <DependentUpon>Goals.xaml</DependentUpon>
+    </Compile>
+    <Page Include="AssetDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FinancialDetail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Goals.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -78,10 +96,6 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Questions.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
