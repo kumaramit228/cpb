@@ -23,8 +23,13 @@ namespace Questionnaire
         public FinancialGoal()
         {
             InitializeComponent();
+            InitiateGoalsAndAssets();
         }
-
+        private void InitiateGoalsAndAssets()
+        {
+            stackAssetDetails.Children.Add(new AssetDetails());
+            stackGoals.Children.Add(new Goals());
+        }
         private void btnAddAsset_Click(object sender, RoutedEventArgs e)
         {
             stackAssetDetails.Children.Add(new AssetDetails());

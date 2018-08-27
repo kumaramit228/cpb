@@ -7,9 +7,14 @@
       mc:Ignorable="d" 
       d:DesignHeight="450" d:DesignWidth="800"
       Title="FinancialGoal">
-
     <Grid>
         <StackPanel>
+            <Grid Background="Blue">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"></RowDefinition>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Finacial Details" HorizontalAlignment="Left"/>
+            </Grid>
             <Grid VerticalAlignment="Top">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="2*"/>
@@ -28,8 +33,10 @@
                     <TextBox Name="txtExpense" Grid.Column="1"/>
                 </StackPanel>
             </Grid>
+            <TextBlock Text="Enter Your Asset Details"/>
             <StackPanel Name="stackAssetDetails"/>
             <Button Name="btnAddAsset" Click="btnAddAsset_Click" Content="Add More Assets" HorizontalAlignment="Center"/>
+            <TextBlock Text="Enter your Goals"/>
             <StackPanel Name="stackGoals"/>
             <Button Name="btnAddGoals" Click="btnAddGoals_Click" Content="Add More Goals" HorizontalAlignment="Center"/>
         </StackPanel>
