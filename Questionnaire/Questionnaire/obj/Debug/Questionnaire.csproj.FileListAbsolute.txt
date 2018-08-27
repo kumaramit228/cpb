@@ -36,3 +36,11 @@ C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\obj\Debug\G
 C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\obj\Debug\FinancialDetail.g.cs
 C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\obj\Debug\FinancialDetail.baml
 C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\obj\Debug\Goals.baml
+C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\bin\Debug\WPFToolkit.dll
+C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.xml
+C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\obj\Debug\Results.g.cs
+C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\obj\Debug\Results.baml
+C:\Users\Grad25\Desktop\Asset allocation\Questionnaire\Questionnaire\obj\Debug\Questionnaire.csproj.CopyComplete
